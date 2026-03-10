@@ -62,3 +62,49 @@ The application integrates with a **MySQL database** to store all event, user, a
 ---
 
 ## 🖥️ Project Structure
+
+Ticket_Management-System
+│
+├── Forms (UI screens)
+├── Controllers
+├── Models
+├── Database connections
+└── Utilities
+
+
+---
+
+## 📷 Screenshots
+(Add screenshots of your application here)
+
+- Login Screen
+- Event Dashboard
+- Ticket Booking Interface
+- Admin Event Management
+
+---
+
+## 🚀 Future Improvements
+
+- Online payment integration
+- Email notifications for ticket bookings
+- Mobile or web-based version
+- Improved UI/UX design
+
+---
+
+## 📚 Learning Outcomes
+
+Through this project, I gained experience in:
+
+- Desktop application development using **C# and WinForms**
+- **Object-Oriented Programming**
+- **Database integration with MySQL**
+- Building **role-based systems**
+- Designing **event and ticket management workflows**
+
+---
+
+## 👩‍💻 Author
+
+Developed as part of a university assignment by **Ushani Prarthana**.
